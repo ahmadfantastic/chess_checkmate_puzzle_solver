@@ -1,0 +1,48 @@
+Claus Pitschel vs Adolf Anderssen, Leipzig, 1851 
+r5rk/2p1Nppp/3p3P/pp2p1P1/4P3/2qnPQK1/8/R6R w - - 1 0
+1. hxg7+ Rxg7 2. Rxh7+ Rxh7 3. Qf6+ Rg7 4. Rh1# 
+
+
+Adolf Anderssen vs Jean Dufresne, Berlin, 1852 
+1r2k1r1/pbppnp1p/1b3P2/8/Q7/B1PB1q2/P4PPP/3R2K1 w - - 1 0
+1. Qxd7+ Kxd7 2. Bf5+ Ke8 3. Bd7+ Kf8 4. Bxe7#
+
+
+Alexander Meek vs Paul Morphy, New Orleans, 1855
+Q7/p1p1q1pk/3p2rp/4n3/3bP3/7b/PP3PPK/R1B2R2 b - - 0 1
+1. Bxg2 2. Qh8+ Kxh8 3. Bg5 Qxg5 4. Rfe1 Nf3# 
+
+
+Paul Morphy vs AP Forde, New Orleans, 1858
+r1bqr3/ppp1B1kp/1b4p1/n2B4/3PQ1P1/2P5/P4P2/RN4K1 w - - 1 0
+1. Qe5+ Kh6 2. g5+ Kh5 3. Bf3+ Bg4 4. Qh2# 
+
+
+Paul Morphy vs NN, New Orleans (blind, simul), 1858 
+r1b3kr/3pR1p1/ppq4p/5P2/4Q3/B7/P5PP/5RK1 w - - 1 0
+1. Rxg7+ Kxg7 2. Qe7+ Kg8 3. Qf8+ Kh7 4. Qf7# 
+
+
+Ignac Kolisch vs Luigi Centurini, Geneva, 1859
+2k4r/1r1q2pp/QBp2p2/1p6/8/8/P4PPP/2R3K1 w - - 1 0
+1. Qa8+ Rb8 2. Rxc6+ Qc7 3. Rxc7+ Kd8 4. Qxb8# 
+
+
+Paul Morphy vs Samuel Boden, London, 1859 
+2r1r3/p3P1k1/1p1pR1Pp/n2q1P2/8/2p4P/P4Q2/1B3RK1 w - - 1 0
+1. f6+ Kh8 2. g7+ Kg8 3. f7+ Kxg7 4. Qf6# 
+
+
+Jules De Riviere vs Paul Journoud, Paris, 1860
+r1bk3r/pppq1ppp/5n2/4N1N1/2Bp4/Bn6/P4PPP/4R1K1 w - - 1 0
+1. Nexf7+ Qxf7 2. Nxf7+ Kd7 3. Bb5+ c6 4. Re7# 
+
+
+Serafino Dubois vs Augustus Mongredien, London, 1862 
+6kr/pp2r2p/n1p1PB1Q/2q5/2B4P/2N3p1/PPP3P1/7K w - - 1 0
+1. Qg7+ Rxg7 2. e7+ Rf7 3. e8=Q+ Qf8 4. Bxf7# 
+
+
+Wilhelm Steinitz vs Augustus Mongredien, London, 1862 
+r3k3/pbpqb1r1/1p2Q1p1/3pP1B1/3P4/3B4/PPP4P/5RK1 w - - 1 0
+1. Bxg6+ Rxg6 2. Qxg6+ Kd8 3. Rf8+ Qe8 4. Qxe8#

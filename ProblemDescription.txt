@@ -1,0 +1,31 @@
+#### STATE
+A state of free cell problem has the following properties:
+- A counter, that stores number of cards left
+- Several piles of cards.
+- Each pile contains none or some cards
+- Each card appears in exactly one pile.
+
+#### INITIAL STATE
+A state with:
+- initial counter
+- Certain number of piles
+- Each piles with none or few cards. Each card appearing only once from 1 to counter
+
+#### SUCCESSOR FUNCTION
+At each state the successor function does one of the following:
+- Take a card on top of some pile, and place it on top of another pile, if it is larger that top of that pile.
+- Take the card on top of some pile and place it on an empty pile.
+- Take the card on top of some pile and discard, if and only if the card is same as the counter, then decrement the counter.
+
+#### GOAL TEST
+When the counter is equals to 0
+
+
+#### Heuristic 1
+Number of cards that are left in the piles
+
+
+#### Heuristic 2
+The sum of the following:
+- Number of move to get to card with counter value (number of cards on top of the card with value equals to card)
+- Plus (+) number of cards in the pile (i.e., counter)
