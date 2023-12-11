@@ -153,7 +153,7 @@ def transposition(node: Node, alpha, beta):
             terminal, expanded = transposition(n, alpha, beta)
             total_expanded += expanded
 
-            if terminal.state.utility() > best_val: # Update the best value and node
+            if terminal.state.utility() > best_val:  # Update the best value and node
                 best_val = terminal.state.utility()
                 best_node = terminal
             elif terminal.state.utility() == best_val:  # If best value is the same, choose best node by depth
@@ -173,7 +173,7 @@ def transposition(node: Node, alpha, beta):
         transposition_table[node.state.position] = best_node
         return best_node, total_expanded
 
-    else: # Min Node
+    else:  # Min Node
         total_expanded = 1
         best_val = math.inf
         best_node = None
@@ -185,7 +185,7 @@ def transposition(node: Node, alpha, beta):
             terminal, expanded = transposition(successor, alpha, beta)
             total_expanded += expanded
 
-            if terminal.state.utility() < best_val: # Update the best value and node
+            if terminal.state.utility() < best_val:  # Update the best value and node
                 best_val = terminal.state.utility()
                 best_node = terminal
             elif terminal.state.utility() == best_val:  # If best value is the same, choose best node by depth
