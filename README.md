@@ -8,7 +8,7 @@ This program uses simple AI search techniques to solve chess checkmate puzzles.
 - Killer Move Heuristic (for Move Ordering)
 
 ## About the Project
-This project was completed as a course project of `Artificial Intelligence` in `Clarkson Univeristy` taught by `Prof. Christopher Lynch`.
+This project was completed as a course project on `Artificial Intelligence` at `Clarkson University` taught by `Prof. Christopher Lynch`.
 
 ### Project Completed by:
 - Ahmad Suleiman: https://github.com/ahmadfantastic
@@ -18,23 +18,24 @@ This project was completed as a course project of `Artificial Intelligence` in `
 ### Project Documents
 - [Project Proposal](https://docs.google.com/document/d/10mtiBX_XN--wOmkSw8E3o_NwrYxPUMSmiF1g2fk72Yg/edit)
 - [Project Final Presentation](https://docs.google.com/presentation/d/1bbWk2Nlo_cc15aLFTWp-yFizXrhnfXdoygoRPycCst8/edit#slide=id.g2a41824c8cb_0_68)
+- [Project Final Report](https://docs.google.com/document/d/1OtrkMxc-68UzHX5k0Kzr06oLgI7htZGAWVLjB4ryj4Y/edit#heading=h.pwelozedd80i)
 
 ## Running
 
 ### Prerequisite
-The prerequisite needed to run this program are
+The prerequisites needed to run this program are
 - `Python 3.*`:  https://www.python.org/downloads/
 - `pip`: Package installer for Python https://pypi.org/project/pip/
 - `IDE`: To edit the code and decide which puzzle problem to run, you need an IDE. This project is configured with `PyCharm`
 
 ### Installation
-1. The only package need to install this program is `python-chess`. To install it, run the command `pip install chess`
+1. The only package needed to install this program is `python-chess`. To install it, run the command `pip install chess`
 2. Clone this reposition using: `git clone https://github.com/ahmadfantastic/chess_checkmate_puzzle_solver.git`
 3. Open the project using your IDE.
 
-### Avaible Puzzle Problems
-There are some chess checkmate puzzles in [/puzzles](puzzles) folder, with even more in [/puzzles_full](puzzles_full) folder.
-These puzzles are fetched from : https://wtharvey.com/.
+### Available Puzzle Problems
+There are some chess checkmate puzzles in the [/puzzles](puzzles) folder, with even more in the [/puzzles_full](puzzles_full) folder.
+These puzzles are fetched from: https://wtharvey.com/.
 
 ### Running an Example
 Here is a sample code snippet to run the checkmate in 2 puzzles in [/puzzles](puzzles/mate2.txt) 
