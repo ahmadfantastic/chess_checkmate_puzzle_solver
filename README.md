@@ -4,7 +4,7 @@ This program uses simple AI search techniques to solve chess checkmate puzzles.
 ### Techniques used include
 - MiniMax Algorithm
 - Alpha-Beta Pruning
-- Transposition
+- Transposition Table
 - Killer Move Heuristic (for Move Ordering)
 
 ## About the Project
